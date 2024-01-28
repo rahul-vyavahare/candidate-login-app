@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/rahul-vyavahare/social-login-candidate-app/static/css/main.a0c79a04.css",
+    "main.js": "/rahul-vyavahare/social-login-candidate-app/static/js/main.ad2f04dd.js",
+    "static/media/error-img.png": "/rahul-vyavahare/social-login-candidate-app/static/media/error-img.76374ff168e1e97f318b.png",
+    "index.html": "/rahul-vyavahare/social-login-candidate-app/index.html",
+    "main.a0c79a04.css.map": "/rahul-vyavahare/social-login-candidate-app/static/css/main.a0c79a04.css.map",
+    "main.ad2f04dd.js.map": "/rahul-vyavahare/social-login-candidate-app/static/js/main.ad2f04dd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0c79a04.css",
+    "static/js/main.ad2f04dd.js"
+  ]
+}
